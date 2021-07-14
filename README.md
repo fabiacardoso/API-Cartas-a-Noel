@@ -88,4 +88,7 @@ Essa API foi desenvolvida em Node.js, com utilização do banco de dados MongoDB
 - Autenticação de usuário
 - Criação de um aplicativo mobile
 
-<img src="/imgReadme/img-capa-readme.png">
+<br>
+<br>
+
+<img src="/imgReadme/final.png">
