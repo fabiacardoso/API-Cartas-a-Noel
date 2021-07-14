@@ -1,5 +1,7 @@
 # API Cartas a Noel - Projeto Final {reprograma} - BackEnd
 
+<img src="/imgReadme/capa-readme-logo.png">
+
 ### Qual o problema que eu quero resolver?
 
 Todos os anos, no natal, muitas crianças brasileiras escrevem cartas endereçadas ao Papai Noel. Estas cartas são entregues aos Correios que separam as cartas por tema do pedido e as deixam disponíveis para que pessoas que desejam realizar o desejo de uma dessas crianças. No último natal o Correio precisou mudar a estratégia de recebimento das cartas e também a forma como elas ficam disponíveis por conta da pandemia de Covid19. Foi criado um blog onde as crianças e seu responsáveis podem fazer o upload da sua carta, que deve ser escrita e digitalizada/fotografada. Depois elas são separadas por tema e suas imagens são expostas para que sejam adotadas. 
