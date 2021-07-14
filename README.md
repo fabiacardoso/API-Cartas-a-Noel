@@ -91,4 +91,4 @@ Essa API foi desenvolvida em Node.js, com utilização do banco de dados MongoDB
 <br>
 <br>
 
-<img src="/imgReadme/img-capa-readme">
+<img src="/imgReadme/img-capa-readme.png">
