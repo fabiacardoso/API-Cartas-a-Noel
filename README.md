@@ -1,8 +1,4 @@
-# API Cartas a Noel
-
-## Projeto Final {reprograma} - BackEnd
-
-# **PROBLEMA**
+# API Cartas a Noel - Projeto Final {reprograma} - BackEnd
 
 ### Qual o problema que eu quero resolver?
 
@@ -36,8 +32,10 @@ Assim será possível que os doadores entrem e pesquisem os desejos de acordo co
 ### Qual o mínimo que posso entregar? (MVP - mínimo produto viável)
 
 Inicialmente, nesta versão, foi entregue a funcionalidade de cadastrar as cartas com o texto dela e os dados pessoais da criança como nome, contato, cidade, estado e o nome/titulo do presente que deseja ganhar.
+<br>
+<br>
 
-# **SOLUÇÃO**
+## **SOLUÇÃO**
 
 ### Defina em uma frase sua solução
 
@@ -83,4 +81,7 @@ Essa API foi desenvolvida em Node.js, com utilização do banco de dados MongoDB
 
 ## **Implementações futuras**
 
-- Criação do FrontEnd
+- Desenvolvimento do Front
+- Criação de login
+- Autenticação de usuário
+- Criação de um aplicativo mobile
