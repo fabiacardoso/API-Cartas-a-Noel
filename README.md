@@ -62,8 +62,6 @@ Sim, porque a atual não automatiza os processos.
 - Deletar uma carta
     - Remover/Apagar uma ficha através d
 
-[BackEnd Requirements](https://www.notion.so/82bf6a1fe215482cabed64e09d410b06)
-
 <!-- ## Mínimo técnico
 
 - [x]  CRUD
