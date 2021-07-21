@@ -1,19 +1,22 @@
 {
-  "name": "serie-node",
+  "name": "server",
   "version": "1.0.0",
-  "description": "API de cadastro de cartas para Papai Noel dos Correios.",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "knex:migrate": "knex --knexfile knexfile.js migrate:latest",
+    "knex:migrate:rollback": "knex --knexfile knexfile.js migrate:rollback"
   },
-  "keywords": [],
-  "author": "Fábia Emanuele Cardoso Sena",
-  "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.1",
-    "bcryptjs": "^2.4.3",
-    "body-parser": "^1.19.0",
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.8.9"
+    "knex": "^0.21.12",
+    "pg": "^8.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
