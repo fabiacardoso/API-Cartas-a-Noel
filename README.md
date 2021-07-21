@@ -64,10 +64,10 @@ Sim, porque a atual não automatiza os processos.
 
 [BackEnd Requirements](https://www.notion.so/82bf6a1fe215482cabed64e09d410b06)
 
-## Mínimo técnico
+<!-- ## Mínimo técnico
 
 - [x]  CRUD
-- [x]  MONGO
+- [x]  MONGO -->
 
 ### Instalação
 
