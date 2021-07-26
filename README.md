@@ -254,6 +254,14 @@ Essa API foi desenvolvida em Node.js, com utilização do banco de dados MongoDB
 <br>
 <br>
 
+## Proposta para o Frontend
+
+<img src="/imgReadme/Tela-Home.png">
+<img src="/imgReadme/Tela-Cadastre.png">
+<img src="/imgReadme/Tela-Adote.png">
+
+
+
 [![reprograma](https://user-images.githubusercontent.com/34174851/101967678-44f98c80-3bfa-11eb-9a5b-187ec3245814.jpg)](https://github.com/reprograma/)
 
 <!-- <img src="/imgReadme/img-capa-readme.png"> -->
