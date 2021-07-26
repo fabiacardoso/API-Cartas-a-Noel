@@ -1,0 +1,33 @@
+{
+  "name": "api-de-cartas-a-noel",
+  "version": "1.0.0",
+  "description": "Api de cadastro de cartas para o papai noel do Correios do Brasil",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiacardoso/API-Cartas-a-Noel.git"
+  },
+  "keywords": [
+    "api",
+    "cartas",
+    "crud"
+  ],
+  "author": "Fábia E. Cardoso Sena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://https://github.com/fabiacardoso/API-Cartas-a-Noel/issues"
+  },
+  "homepage": "https://https://github.com/fabiacardoso/API-Cartas-a-Noel#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12"
+  }
+}
