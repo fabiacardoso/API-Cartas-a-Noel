@@ -14,8 +14,6 @@ Assim surge o problema! O processo, mesmo ganhando o mundo digital, continua tra
 
 Para solucionar esta questão temos a API Cartas a Noel, através dela será possível que os pais e as crianças possam cadastrar seus textos de suas cartas, seus dados de contato e o nome do item de desejo. Assim será possível que os doadores entrem e pesquisem os desejos de acordo com o que elas podem ou desejam doar. E a equipe dos Correio não precisará mais fazer a separação manual das cartas.
 
-### Qual o mínimo que posso entregar? (MVP - mínimo produto viável)
-
 Inicialmente, nesta versão, foi entregue a funcionalidade de cadastrar as cartas com o texto dela e os dados pessoais da criança como nome, contato, cidade, estado, o desejo e o textos da carta falando um pouco sobre o presente que deseja ganhar.
 <br>
 <br>
