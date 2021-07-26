@@ -41,21 +41,6 @@ Inicialmente, nesta versão, foi entregue a funcionalidade de cadastrar as carta
 <br>
 <br>
 
-## Estrutura do projeto
-
-```
-api-cartas-a-noel
-├── src
-│   ├── controller
-│   ├── model
-│   ├── routes
-│   └── app.js
-├── server.js
-├── package.json
-```
-<br>
-<br>
-
 ## Tabela letters
 
 ```
@@ -233,18 +218,6 @@ Usuário e senha será passado para entrar na conta da carta.
 }
 
 ```
-
-### Instalação
-
-Essa API foi desenvolvida em Node.js, com utilização do banco de dados MongoDB.
-
-1. Clonar o projeto
-    - npm install
-    - npm install -D nodemon
-    - npm install mongoose
-2. Abrir a pasta pelo prompt de comando
-3. Instalar as dependências e bibliotecas
-    - nodemon server.js
 
 ## **Implementações futuras**
 
