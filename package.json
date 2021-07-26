@@ -1,22 +1,30 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "API para cadastrar cartas para o Papapi Noel dos Correios",
+  "main": "server.js",
   "license": "MIT",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
-    "knex:migrate": "knex --knexfile knexfile.js migrate:latest",
-    "knex:migrate:rollback": "knex --knexfile knexfile.js migrate:rollback"
   },
-  "dependencies": {
-    "axios": "^0.21.0",
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "knex": "^0.21.12",
-    "pg": "^8.5.0"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fabiacardoso/API-Cartas-a-Noel.git"
   },
+  "keywords": [],
+  "author": "Fábia E. Cardoso Sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiacardoso/API-Cartas-a-Noel/issues"
+  },
+  "homepage": "https://github.com/fabiacardoso/API-Cartas-a-Noel#readme",
   "devDependencies": {
+    "bcrypt": "^5.0.0",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.15",
     "nodemon": "^2.0.6"
   }
 }
